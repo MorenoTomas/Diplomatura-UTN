@@ -4,4 +4,22 @@ h1 {
 
 h2 {
     color: red;
+    font-weight: bold;
+    font-size: 30px
+
+    
+    ;
+}
+p {
+    font-style: oblique;
+    color: lightblue;
+}
+
+#biografia {
+    background-color: black;
+}
+.detalle {
+    color: green;
+    font-size: 40px;
+    font-style: italic;
 }
