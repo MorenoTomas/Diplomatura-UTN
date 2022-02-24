@@ -1,0 +1,25 @@
+.contenedor{
+    background-color: lightblue;
+    height: 120px;
+    width: 750px;
+    display: inline-flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    
+    
+    
+}
+
+.cajas{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
